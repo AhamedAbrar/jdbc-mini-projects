@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Food {
     private static final String URL = "jdbc:mysql://localhost:3306/food_order_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "nive0404";
+    private static final String PASSWORD = "Abu1997";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
